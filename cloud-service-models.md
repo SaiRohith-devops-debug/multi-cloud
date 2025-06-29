@@ -82,6 +82,7 @@ PaaS provides a platform allowing customers to develop, run, and manage applicat
 ## <a name="saas"></a>Software as a Service (SaaS)
 
 ### Definition
+
 SaaS delivers software applications over the internet, on a subscription basis. The service provider hosts and manages the software application and underlying infrastructure.
 
 ### Key Characteristics
